@@ -35,7 +35,7 @@ boolean startState = true;
 boolean settingMode = false;
 
 //Pin digital del motor de la banda transportadora
-int motorPin = motorPin;
+int motorPin = 11;
 //Pines digitales para cada uno de los anodos del LED RGB
 int rPin = 18;
 int gPin = 16;
